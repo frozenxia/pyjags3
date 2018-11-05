@@ -1,0 +1,1 @@
+g++ -I/usr/include/JAGS -I/usr/lib/python3/dist-packages/numpy/core/include/  -I/usr/local/include `python3-config --cflags` runJags.cpp
